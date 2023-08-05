@@ -21,7 +21,7 @@ MarkupSafe
 numpy
 oauthlib
 pillow
-protobu
+protobuf
 PyYAML
 python-dotenv
 requests
